@@ -16,11 +16,6 @@ I build scalable applications and digital products using:
 - Cybersecurity & Secure Systems
 - Building products for real-world impact
 
-## Featured Projects
-🚀 SaaS Applications  
-📱 Flutter Mobile Apps  
-🔐 Security-focused Systems  
-
 ## Connect
 Always open to collaboration, innovation, and solving meaningful problems.
 
